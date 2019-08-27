@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BeniGPS</string>
+    <string name="userscreen">User screen</string>
+    <string name="home">GPS Tracker</string>
+    <string name="adminscreen">Admin screen</string>
+    <string name="submit_button">Submit</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="internet_disabled">Internet Disabled!</string>
+    <string name="internet_disabled_msg">No active Internet connection found.</string>
+    <string name="turn_on">Turn On</string>
+    <string name="exit">No, Just Exit</string>
+    <string name="user_enter">USER ENTERED FENCE AREA.</string>
+    <string name="user_exit">USER EXITED FENCE AREA.</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_msg">Gps is disabled, in order to use the application properly you need to enable GPS of your device</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="yes">Stop Track</string>
+    <string name="maybe">maybe</string>
+    <string name="no">no</string>
+
+
+</resources>
